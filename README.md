@@ -1,8 +1,8 @@
-# Peter
+# PeterG-AI
 
 <img src="./docs/peter_banner.jpg" alt="Peter Banner" width="100%">
 
-*As seen powering Peter G-AI*
+*As seen powering PeterG-AI*
 
 - *Multi-Agent Simulation:* Easily manage multiple unique characters.
 - *Integrated Connectors:* Supports Discord and Twitter, including voice channel functionality.
